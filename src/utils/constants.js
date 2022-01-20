@@ -1,0 +1,7 @@
+const PAYMENT_STATUS = {
+    APPROVED: 'A',
+    CANCELLED: 'C',
+    PENDING_APPROVAL: 'P'
+}
+
+export  { PAYMENT_STATUS }
